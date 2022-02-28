@@ -1,7 +1,7 @@
 <h1 align="center">Hallo 👋, I'm Arpan</h1>
 <h3 align="center">🧑🏻‍🎓Student of Carmel Convent Sr. Sec. School</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-arpan" alt="code-arpan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-arpan&theme=onedark" alt="code-arpan" /></a> </p>
 
 - 📚 I’m currently studying in **Class 10th**
 
