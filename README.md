@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=code-arpan&show_icons=true&locale=en" alt="code-arpan" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=code-arpan&" alt="code-arpan" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=code-arpan&" alt="code-arpan" /></p>
