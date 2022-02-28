@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **advance level programming**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3spTDdK](https://bit.ly/3spTDdK)
+- 👨‍💻 All of my programs are available at [https://bit.ly/3spTDdK](https://bit.ly/3spTDdK)
 
 - ⌨️ I regularly write codes on [https://bit.ly/3C1YB3M](https://bit.ly/3C1YB3M)
 
