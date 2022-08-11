@@ -1,11 +1,11 @@
 <h1 align="center">Hallo 👋, I'm Arpan</h1>
-<h3 align="center">🧑🏻‍🎓Student of Carmel Convent Sr. Sec. School</h3>
+<h3 align="center">🧑🏻‍🎓Student of O.P. Jindal School</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-arpan&theme=onedark" alt="code-arpan" /></a> </p>
 
-- 📚 I’m currently studying in **Class 10th**
+- 📚 I’m currently studying in **Class 11th**
 
-- 🌱 I’m currently learning **C++ & Python**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with **advance level programming**
 
