@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-arpan&theme=onedark" alt="code-arpan" /></a> </p>
 
-- 📚 I’m currently studying in **Class 11th**
+- 📚 I’m currently studying in **Class 12th**
 
 - 🌱 I’m currently learning **Python**
 
