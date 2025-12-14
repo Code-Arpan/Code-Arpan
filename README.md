@@ -1,32 +1,83 @@
-<h1 align="center">Hallo 👋, I'm Arpan</h1>
-<h3 align="center">🧑🏻‍🎓Student of NIT Silchar</h3>
+<h1 align="center">Hey 👋, I'm Arpan Paul</h1>
+<h3 align="center">🧑🏻‍🎓 B.Tech Student @ NIT Silchar | Aspiring Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-arpan&theme=onedark" alt="code-arpan" /></a> </p>
-
-- 📚 I’m currently studying in **B.Tech 1st Year**
-
-- 🌱 I’m currently learning **DSA in C++**
-
-- 🤝 I’m looking for help with **advance level programming**
-
-- 👨‍💻 All of my programs are available at [https://bit.ly/3spTDdK](https://bit.ly/3spTDdK)
-
-- ⌨️ I regularly write codes on [https://bit.ly/3C1YB3M](https://bit.ly/3C1YB3M)
-
-- 💬 Ask me about **the skills I know**
-
-- ⚡ Fun fact **Lol = Laughing out loud >_<**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arpan_205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpan_205" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/code-arpan">
+    <img src="https://komarev.com/ghpvc/?username=code-arpan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-arpan&show_icons=true&locale=en&layout=compact" alt="code-arpan" /></p>
+## 🚀 About Me  
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=code-arpan&show_icons=true&locale=en" alt="code-arpan" /></p>
+- 📚 **1st Year B.Tech** student (Electronics & Instrumentation) at **NIT Silchar**  
+- 🌱 Currently learning **Data Structures & Algorithms in C++**  
+- 🤝 Looking to improve my **advanced programming & problem-solving skills**  
+- 👨‍💻 Love writing clean, logical, and efficient code  
+- ⚡ Fun fact: **`LOL` = Laughing Out Loud >_<**
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=code-arpan&" alt="code-arpan" /></p>
+---
+
+## 🔗 Coding Profiles & Work  
+
+- 🧠 **All my programs:** [Click here](https://bit.ly/3spTDdK)  
+- ⌨️ **Regular coding practice:** [Click here](https://bit.ly/3C1YB3M)  
+- 💬 Ask me about **C++, Java, Python, basics of DSA**
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://twitter.com/arpan_205" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/arpanpaul-nits2029/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=code-arpan&theme=onedark&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-arpan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-arpan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-arpan&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### ✨ *Building skills one line of code at a time.*
