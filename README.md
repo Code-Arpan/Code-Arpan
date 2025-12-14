@@ -22,7 +22,7 @@
 ## 🔗 Coding Profiles & Work  
 
 - 🧠 **All my programs:** [Click here](https://bit.ly/3spTDdK)  
-- ⌨️ **Regular coding practice:** [Click here](https://bit.ly/3C1YB3M)  
+- ⌨️ **Regular coding practice:** [Click here](https://leetcode.com/u/Code-Arpan/)
 - 💬 Ask me about **C++, Java, Python, basics of DSA**
 
 ---
@@ -59,23 +59,11 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-arpan&theme=onedark&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=code-arpan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-arpan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-arpan&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
